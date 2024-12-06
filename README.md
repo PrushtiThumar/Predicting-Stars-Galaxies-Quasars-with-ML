@@ -54,6 +54,7 @@ Results
 * K-Nearest Neighbors:
    * Achieved high accuracy due to its local decision-making process.
 Sample outputs of the predictions for the first 10 test samples are displayed for each model, along with detailed classification reports.
+
 Future Scope
 * Experiment with additional models like SVM, Random Forests, or Neural Networks.
 * Fine-tune hyperparameters to optimize model performance.
